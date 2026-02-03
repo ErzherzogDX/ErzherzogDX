@@ -1,4 +1,4 @@
-# 👋 welcome to space 👋
+# 👋 welcome to the space 👋
 
 ## Учебные проекты
 
