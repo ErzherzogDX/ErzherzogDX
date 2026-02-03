@@ -1,4 +1,4 @@
-# 👋 welcome to dmitrii grigorev space 👋
+# 👋 welcome to space 👋
 
 ## Учебные проекты
 
